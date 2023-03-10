@@ -78,14 +78,6 @@ This portfolio was built to demonstrate technical knowledge and implementation o
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Walkthrough Video
-
-[video][walkthrough-video]:
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
 ## License
 
 Distributed under the MIT License License. See `LICENSE.txt` for more information.
